@@ -1,4 +1,3 @@
-#     
 #   This file is part of Invoke-Obfuscation.
 #
 #   Copyright 2017 Daniel Bohannon <@danielhbohannon>
