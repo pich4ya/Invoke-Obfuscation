@@ -1,4 +1,4 @@
-#   This file is part of Invoke-Obfuscation.
+#   This file is part of Invoke-Obfuscationz.
 #
 #   Copyright 2017 Daniel Bohannon <@danielhbohannon>
 #         while at Mandiant <http://www.mandiant.com>
